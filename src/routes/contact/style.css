@@ -14,12 +14,13 @@
   left: 0px;
   content: '';
   width: 75%;
-  border-bottom: 2px solid #FFC107;
+  border-bottom: 2px solid gray;
 }
 
 .pageBody {
   font-size: 1.2rem;
   flex: 1;
+  margin-left: 10px;
 }
 
 .pageContact input, .pageContact textarea {
